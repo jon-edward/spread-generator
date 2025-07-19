@@ -1,6 +1,6 @@
 # spread-generator
 
-> **Warning**
+> [!WARNING]
 > This is not recommended for use in production, and is designed
 > for entertainment purposes only.
 
